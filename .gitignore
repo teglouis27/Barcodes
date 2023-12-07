@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not .html, .gitignore, .js,  or .log files...
+!*.js
+!*.html
+!*.log
+!.gitignore
